@@ -8,7 +8,10 @@ An app for the GA SEI Gauntlet Quizzes
 POST /login
 POST /sign-up
 GET /cohorts
-GET 
+POST /cohort
+PUT /cohort
+DELETE /cohort
+
 ```
 
 ## MVP
